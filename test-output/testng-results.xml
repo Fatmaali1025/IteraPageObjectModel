@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24263" started-at="2022-10-25T21:34:03 EDT" finished-at="2022-10-25T21:34:28 EDT">
+    <groups>
+    </groups>
+    <test name="ItearTestNG" duration-ms="24263" started-at="2022-10-25T21:34:03 EDT" finished-at="2022-10-25T21:34:28 EDT">
+      <class name="pages.test.TestAutomationPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:pages.test.TestAutomationPageTest@7e0e6aa2]" name="SetUp" is-config="true" duration-ms="9763" started-at="2022-10-25T21:34:03 EDT" finished-at="2022-10-25T21:34:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyTestAutomationButton()[pri:1, instance:pages.test.TestAutomationPageTest@7e0e6aa2]" name="VerifyTestAutomationButton" duration-ms="658" started-at="2022-10-25T21:34:13 EDT" finished-at="2022-10-25T21:34:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTestAutomationButton -->
+        <test-method status="PASS" signature="TestAutomationPracticeForm()[pri:2, instance:pages.test.TestAutomationPageTest@7e0e6aa2]" name="TestAutomationPracticeForm" duration-ms="2135" started-at="2022-10-25T21:34:14 EDT" finished-at="2022-10-25T21:34:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAutomationPracticeForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.test.TestAutomationPageTest@7e0e6aa2]" name="tearDown" is-config="true" duration-ms="826" started-at="2022-10-25T21:34:16 EDT" finished-at="2022-10-25T21:34:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.test.TestAutomationPageTest -->
+      <class name="pages.test.SignUpPage">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:pages.test.SignUpPage@64485a47]" name="SetUp" is-config="true" duration-ms="6591" started-at="2022-10-25T21:34:17 EDT" finished-at="2022-10-25T21:34:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifySignUpBtn()[pri:0, instance:pages.test.SignUpPage@64485a47]" name="VerifySignUpBtn" duration-ms="697" started-at="2022-10-25T21:34:24 EDT" finished-at="2022-10-25T21:34:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySignUpBtn -->
+        <test-method status="PASS" signature="signUpWithValidInfo()[pri:0, instance:pages.test.SignUpPage@64485a47]" name="signUpWithValidInfo" duration-ms="2800" started-at="2022-10-25T21:34:24 EDT" finished-at="2022-10-25T21:34:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpWithValidInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.test.SignUpPage@64485a47]" name="tearDown" is-config="true" duration-ms="692" started-at="2022-10-25T21:34:27 EDT" finished-at="2022-10-25T21:34:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.test.SignUpPage -->
+    </test> <!-- ItearTestNG -->
+  </suite> <!-- Suite -->
+</testng-results>
